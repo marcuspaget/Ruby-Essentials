@@ -1,4 +1,4 @@
-# blanket patters
+# blanket patterns
 
 colors=['R','R','G','G','B','B','Y','Y','K','K']
 
